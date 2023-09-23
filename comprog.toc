@@ -1,0 +1,15 @@
+\contentsline {section}{\tocsection {}{1}{Code Templates}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{C++ Header}}{1}{}%
+\contentsline {section}{\tocsection {}{2}{Data Structures}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Disjoint Set Union}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{2.2}{Lazy Segment Tree}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Sparse Table}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{2.4}{Trie}}{2}{}%
+\contentsline {section}{\tocsection {}{3}{Graph Theory}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{3.1}{Maximum Bipartite Matching}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{3.2}{Hungarian Algorithm}}{2}{}%
+\contentsline {section}{\tocsection {}{4}{Miscellaneous}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.1}{Round Robin}}{3}{}%
+\contentsline {section}{\tocsection {}{5}{Mathematics}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{3}{}%

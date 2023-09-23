@@ -1,0 +1,146 @@
+\documentclass[8pt,a4paper,landscape,oneside]{amsart}
+\usepackage{amsmath, amsthm, amssymb, amsfonts}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{fullpage}
+%\usepackage{geometry}
+% \usepackage[top=0pt, bottom=1cm, left=0.3cm, right=0.3cm]{geometry}
+\usepackage[top=3pt, bottom=1cm, left=0.3cm, right=0.3cm]{geometry}
+\usepackage{graphicx}
+% \usepackage{listings}
+\usepackage{subcaption}
+\usepackage[scaled]{beramono}
+\usepackage{titling}
+\usepackage{datetime}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.1em\vspace{-1em}}%
+}
+
+% Minted
+\usepackage{minted}
+\newcommand{\code}[1]{\inputminted[fontsize=\normalsize,baselinestretch=1]{cpp}{_code/#1}}
+\newcommand{\bashcode}[1]{\inputminted{bash}{_code/#1}}
+\newcommand{\regcode}[1]{\inputminted{cpp}{code/#1}}
+
+% Header/Footer
+% \geometry{includeheadfoot}
+%\fancyhf{}
+\pagestyle{fancy}
+\lhead{Reykjavík University}
+\rhead{\thepage}
+\cfoot{}
+\setlength{\headheight}{15.2pt}
+\setlength{\droptitle}{-20pt}
+\posttitle{\par\end{center}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Math and bit operators
+\DeclareMathOperator{\lcm}{lcm}
+\newcommand*\BitAnd{\mathrel{\&}}
+\newcommand*\BitOr{\mathrel{|}}
+\newcommand*\ShiftLeft{\ll}
+\newcommand*\ShiftRight{\gg}
+\newcommand*\BitNeg{\ensuremath{\mathord{\sim}}}
+\DeclareRobustCommand{\stirling}{\genfrac\{\}{0pt}{}}
+
+\newenvironment{myitemize}
+{ \begin{itemize}[leftmargin=.5cm]
+    \setlength{\itemsep}{0pt}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0pt}     }
+{ \end{itemize}                  }
+
+% Title/Author
+\title{.*RU.*}
+\subtitle{Team Reference Document}
+\date{\ddmmyyyydate{\today{}}}
+
+% Output Verbosity
+\newif\ifverbose
+\verbosetrue
+% \verbosefalse
+
+\begin{document}
+
+\begin{multicols*}{3}
+\maketitle
+\thispagestyle{fancy}
+\vspace{-3em}
+% \addtocontents{toc}{\protect\enlargethispage{\baselineskip}}
+\tableofcontents
+
+% \clearpage
+
+
+\section{Code Templates}
+
+    \subsection{C++ Header}
+        A C++ header.
+        \code{header.cpp}
+
+\section{Data Structures}
+
+	\subsection{Disjoint Set Union}
+	
+	\code{data-structures/dsu.cpp}
+	
+	\subsection{Lazy Segment Tree}
+	
+	\code{data-structures/lazy_segment_tree.cpp}
+	
+	\subsection{Sparse Table}
+	
+	\code{data-structures/sparse_table.cpp}
+	
+	\subsection{Trie}
+	
+	\code{data-structures/trie.cpp}
+
+\section{Graph Theory}
+
+	\subsection{Maximum Bipartite Matching}
+	
+	Kopcroft-Karp algorithm. Time complexity is $O(E\sqrt{V})$
+	
+	\code{graphs/bipartite_matching.cpp}
+	
+	\subsection{Hungarian Algorithm}
+	
+	Finds min weight bipartite matching. $O(n^3)$ complexity.
+	
+	\code{graphs/hungarian_algorithm.cpp}
+
+\section{Miscellaneous}
+
+	\subsection{Round Robin}
+	
+	\code{miscellaneous/round_robin.cpp}
+
+\section{Mathematics}
+
+	\subsection{Extended Euclidean Algorithm}
+	
+	Finds integer solutions $(x, y)$ to $ax + by = \gcd(a, b)$.
+	
+	\code{math/extended_euclidean_algorithm.cpp}
+	
+	\subsection{Shoelace's formula}
+	
+	Finds the area of polygon, given it's vertices in clockwise or counterclockwise order.
+	
+	\code{math/geometry/shoelace.cpp}
+
+\end{multicols*}
+\end{document}
