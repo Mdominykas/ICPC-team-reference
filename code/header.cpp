@@ -12,6 +12,7 @@ typedef vector<ii> vii;
 typedef long long ll;
 typedef tree<int, null_type, less<int>, rb_tree_tag, \
   tree_order_statistics_node_update> orderedTree;
+// usage: find_by_order, order_of_key
 const double pi = acos(-1);
 mt19937 rng(chrono::steady_clock::now().
   time_since_epoch().count());

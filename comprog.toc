@@ -8,8 +8,10 @@
 \contentsline {section}{\tocsection {}{3}{Graph Theory}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{3.1}{Maximum Bipartite Matching}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{3.2}{Hungarian Algorithm}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{3.3}{Strongly Connected Components}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{3.4}{2-SAT}}{3}{}%
 \contentsline {section}{\tocsection {}{4}{Miscellaneous}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{4.1}{Round Robin}}{3}{}%
-\contentsline {section}{\tocsection {}{5}{Mathematics}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{3}{}%
+\contentsline {section}{\tocsection {}{5}{Mathematics}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{4}{}%
