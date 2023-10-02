@@ -12,7 +12,7 @@ void buildsparsetable(int N, int a[])
   {
     for(int i = 0; i + (1<<j) <= N; i++)
       lookup[i][j] = min(lookup[i][j - 1], 
-      	lookup[i + (1<<(j - 1))][j - 1]);
+        lookup[i + (1<<(j - 1))][j - 1]);
   }
   loga[1] = 0;
   for(int i = 2; i <= N; i++)

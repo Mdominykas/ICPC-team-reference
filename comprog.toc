@@ -5,17 +5,18 @@
 \contentsline {subsection}{\tocsubsection {}{2.2}{Lazy Segment Tree}}{1}{}%
 \contentsline {subsection}{\tocsubsection {}{2.3}{Sparse Table}}{1}{}%
 \contentsline {subsection}{\tocsubsection {}{2.4}{Trie}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{2.5}{Suffix Automaton}}{2}{}%
 \contentsline {section}{\tocsection {}{3}{Graph Theory}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{3.1}{BFS}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{3.2}{Dijkstra}}{2}{}%
-\contentsline {subsection}{\tocsubsection {}{3.3}{Bellmann-Ford}}{2}{}%
-\contentsline {subsection}{\tocsubsection {}{3.4}{Floyd-Warshall}}{2}{}%
+\contentsline {subsection}{\tocsubsection {}{3.3}{Bellmann-Ford}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{3.4}{Floyd-Warshall}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{3.5}{Maximum Bipartite Matching}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{3.6}{Hungarian Algorithm}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{3.7}{Strongly Connected Components}}{4}{}%
 \contentsline {subsection}{\tocsubsection {}{3.8}{2-SAT}}{4}{}%
 \contentsline {section}{\tocsection {}{4}{Miscellaneous}}{4}{}%
 \contentsline {subsection}{\tocsubsection {}{4.1}{Round Robin}}{4}{}%
-\contentsline {section}{\tocsection {}{5}{Mathematics}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{4}{}%
+\contentsline {section}{\tocsection {}{5}{Mathematics}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{5}{}%
