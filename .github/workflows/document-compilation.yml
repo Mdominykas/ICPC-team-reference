@@ -4,5 +4,6 @@ on: [push]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
+    name: compilation
     steps:
-    	- run: make all
+        - run: make all
