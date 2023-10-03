@@ -6,11 +6,11 @@ on:
 
 jobs:
   build:
-    name: Compiling team reference document
+    name: Compiling Team Reference Document
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout Code
       uses: actions/checkout@v2  # This step checks out your repository code
       
     - name: printing current directory
@@ -29,6 +29,12 @@ jobs:
         sudo apt-get install -y texlive-fonts-extra
         sudo apt-get install -y texlive-latex-extra
 
-    - name: compilation
+    - name: Compilation
       run: make all
 
+  - name: Upload Compiled Document
+    uses: actions/upload-artifact@v3
+    with:
+      name: ICPC-team-reference
+      path: comprog.pdf
+      retention-days: 5
