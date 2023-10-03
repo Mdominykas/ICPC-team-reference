@@ -2,7 +2,7 @@ name: ICPC team reference compilation
 on:
   push:
     branches:
-      - main  # You can specify the branch you want to trigger this workflow
+      - master
 
 jobs:
   build:
