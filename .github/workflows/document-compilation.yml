@@ -1,0 +1,8 @@
+name: ICPC team reference compilation
+run-name: Compiling team reference document
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+    	- run: make all
