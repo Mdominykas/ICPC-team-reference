@@ -32,9 +32,9 @@ jobs:
     - name: Compilation
       run: make all
 
-  - name: Upload Compiled Document
-    uses: actions/upload-artifact@v3
-    with:
-      name: ICPC-team-reference
-      path: comprog.pdf
-      retention-days: 5
+    - name: Upload Compiled Document
+      uses: actions/upload-artifact@v3
+      with:
+        name: ICPC-team-reference
+        path: comprog.pdf
+        retention-days: 5
