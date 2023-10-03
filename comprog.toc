@@ -3,7 +3,7 @@
 \contentsline {section}{\tocsection {}{2}{Data Structures}}{1}{}%
 \contentsline {subsection}{\tocsubsection {}{2.1}{Disjoint Set Union}}{1}{}%
 \contentsline {subsection}{\tocsubsection {}{2.2}{Lazy Segment Tree}}{1}{}%
-\contentsline {subsection}{\tocsubsection {}{2.3}{Sparse Table}}{1}{}%
+\contentsline {subsection}{\tocsubsection {}{2.3}{Sparse Table}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{2.4}{Trie}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{2.5}{Suffix Automaton}}{2}{}%
 \contentsline {section}{\tocsection {}{3}{Graph Theory}}{2}{}%
@@ -19,4 +19,9 @@
 \contentsline {subsection}{\tocsubsection {}{4.1}{Round Robin}}{4}{}%
 \contentsline {section}{\tocsection {}{5}{Mathematics}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.2}{Shoelace's formula}}{5}{}%
+\contentsline {section}{\tocsection {}{6}{Geometry}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{6.1}{Shoelace's Formula}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{6.2}{Basic-geometry}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{6.3}{Circle-line intersection}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{6.4}{Convex-Hull}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{6.5}{Half-plane Intersection}}{6}{}%
