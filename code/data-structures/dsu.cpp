@@ -24,12 +24,3 @@ struct DSU
       parent[findSet(i)] = findSet(j);
   }
 };
-
-
-int main()
-{
-  int n;
-  cin >> n;
-  DSU naujas(n);
-  return 0;
-}
