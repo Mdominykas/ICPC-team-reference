@@ -12,17 +12,18 @@
 \contentsline {subsection}{\tocsubsection {}{3.3}{Bellmann-Ford}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{3.4}{Floyd-Warshall}}{3}{}%
 \contentsline {subsection}{\tocsubsection {}{3.5}{Bridges}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.6}{Maximum Bipartite Matching}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.7}{Hungarian Algorithm}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{3.8}{Strongly Connected Components}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{3.9}{2-SAT}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{3.6}{Articulation Points}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{3.7}{Maximum Bipartite Matching}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{3.8}{Hungarian Algorithm}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{3.9}{Strongly Connected Components}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{3.10}{2-SAT}}{5}{}%
 \contentsline {section}{\tocsection {}{4}{Mathematics}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{4.1}{Extended Euclidean Algorithm}}{5}{}%
 \contentsline {section}{\tocsection {}{5}{Geometry}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.1}{Shoelace's Formula}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.2}{Basic-geometry}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.3}{Circle-line intersection}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.4}{Convex-Hull}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{5.4}{Convex-Hull}}{6}{}%
 \contentsline {subsection}{\tocsubsection {}{5.5}{Half-plane Intersection}}{6}{}%
 \contentsline {section}{\tocsection {}{6}{Miscellaneous}}{6}{}%
 \contentsline {subsection}{\tocsubsection {}{6.1}{Round Robin}}{6}{}%
