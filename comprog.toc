@@ -22,9 +22,10 @@
 \contentsline {section}{\tocsection {}{5}{Geometry}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.1}{Shoelace's Formula}}{5}{}%
 \contentsline {subsection}{\tocsubsection {}{5.2}{Basic-geometry}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.3}{Circle-line intersection}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.4}{Convex-Hull}}{6}{}%
-\contentsline {subsection}{\tocsubsection {}{5.5}{Half-plane Intersection}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{5.3}{Point segment distance}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{5.4}{Circle-line intersection}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{5.5}{Convex-Hull}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{5.6}{Half-plane Intersection}}{6}{}%
 \contentsline {section}{\tocsection {}{6}{Miscellaneous}}{6}{}%
 \contentsline {subsection}{\tocsubsection {}{6.1}{Round Robin}}{6}{}%
 \contentsline {subsection}{\tocsubsection {}{6.2}{Prefix Function}}{6}{}%
