@@ -6,27 +6,29 @@
 \contentsline {subsection}{\tocsubsection {}{2.3}{Sparse Table}}{1}{}%
 \contentsline {subsection}{\tocsubsection {}{2.4}{Trie}}{2}{}%
 \contentsline {subsection}{\tocsubsection {}{2.5}{Suffix Automaton}}{2}{}%
-\contentsline {section}{\tocsection {}{3}{Graph Theory}}{2}{}%
-\contentsline {subsection}{\tocsubsection {}{3.1}{BFS}}{2}{}%
-\contentsline {subsection}{\tocsubsection {}{3.2}{Dijkstra}}{2}{}%
-\contentsline {subsection}{\tocsubsection {}{3.3}{Bellmann-Ford}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.4}{Floyd-Warshall}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.5}{Bridges}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.6}{Articulation Points}}{3}{}%
-\contentsline {subsection}{\tocsubsection {}{3.7}{Maximum Bipartite Matching}}{3}{}%
-\contentsline {subsubsection}{\tocsubsubsection {}{3.7.1}{Dinic's algorithm}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{3.8}{Hungarian Algorithm}}{4}{}%
-\contentsline {subsection}{\tocsubsection {}{3.9}{Strongly Connected Components}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{3.10}{2-SAT}}{5}{}%
-\contentsline {section}{\tocsection {}{4}{Mathematics}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{4.1}{Extended Euclidean Algorithm}}{5}{}%
-\contentsline {section}{\tocsection {}{5}{Geometry}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.1}{Shoelace's Formula}}{5}{}%
-\contentsline {subsection}{\tocsubsection {}{5.2}{Basic-geometry}}{6}{}%
-\contentsline {subsection}{\tocsubsection {}{5.3}{Point segment distance}}{6}{}%
-\contentsline {subsection}{\tocsubsection {}{5.4}{Circle-line intersection}}{6}{}%
-\contentsline {subsection}{\tocsubsection {}{5.5}{Convex-Hull}}{6}{}%
-\contentsline {subsection}{\tocsubsection {}{5.6}{Half-plane Intersection}}{7}{}%
-\contentsline {section}{\tocsection {}{6}{Miscellaneous}}{7}{}%
-\contentsline {subsection}{\tocsubsection {}{6.1}{Round Robin}}{7}{}%
-\contentsline {subsection}{\tocsubsection {}{6.2}{Prefix Function}}{7}{}%
+\contentsline {section}{\tocsection {}{3}{Dynamic Programming}}{2}{}%
+\contentsline {section}{\tocsection {}{4}{Graph Theory}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.1}{BFS}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.2}{Dijkstra}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.3}{Bellmann-Ford}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.4}{Floyd-Warshall}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.5}{Bridges}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.6}{Articulation Points}}{3}{}%
+\contentsline {subsection}{\tocsubsection {}{4.7}{Maximum Bipartite Matching}}{3}{}%
+\contentsline {subsubsection}{\tocsubsubsection {}{4.7.1}{Dinic's algorithm}}{4}{}%
+\contentsline {subsection}{\tocsubsection {}{4.8}{Hungarian Algorithm}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{4.9}{Strongly Connected Components}}{5}{}%
+\contentsline {subsection}{\tocsubsection {}{4.10}{2-SAT}}{5}{}%
+\contentsline {section}{\tocsection {}{5}{Mathematics}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Extended Euclidean Algorithm}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Lagrande Interpolation}}{6}{}%
+\contentsline {section}{\tocsection {}{6}{Geometry}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{6.1}{Shoelace's Formula}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{6.2}{Basic-geometry}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{6.3}{Point segment distance}}{6}{}%
+\contentsline {subsection}{\tocsubsection {}{6.4}{Circle-line intersection}}{7}{}%
+\contentsline {subsection}{\tocsubsection {}{6.5}{Convex-Hull}}{7}{}%
+\contentsline {subsection}{\tocsubsection {}{6.6}{Half-plane Intersection}}{7}{}%
+\contentsline {section}{\tocsection {}{7}{Miscellaneous}}{7}{}%
+\contentsline {subsection}{\tocsubsection {}{7.1}{Round Robin}}{7}{}%
+\contentsline {subsection}{\tocsubsection {}{7.2}{Prefix Function}}{7}{}%
