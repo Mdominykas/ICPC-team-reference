@@ -33,3 +33,4 @@
 \contentsline {section}{\tocsection {}{7}{Miscellaneous}}{7}{}%
 \contentsline {subsection}{\tocsubsection {}{7.1}{Round Robin}}{7}{}%
 \contentsline {subsection}{\tocsubsection {}{7.2}{Prefix Function}}{7}{}%
+\contentsline {subsection}{\tocsubsection {}{7.3}{Hashing}}{8}{}%
